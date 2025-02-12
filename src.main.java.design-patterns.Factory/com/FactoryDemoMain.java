@@ -4,7 +4,7 @@ import com.factory.ShapeFactory;
 import com.interfaces.Shape;
 
 public class FactoryDemoMain {
- 
+
 	public static void main(String[] args) {
 		
 		ShapeFactory shapeFactory = new ShapeFactory();
