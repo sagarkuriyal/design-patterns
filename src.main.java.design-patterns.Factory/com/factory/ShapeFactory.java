@@ -1,9 +1,9 @@
 package com.factory;
 
+import com.abstracts.factory.interfaces.Shape;
 import com.impl.Circle;
 import com.impl.Rectangle;
 import com.impl.Square;
-import com.interfaces.Shape;
 
 public class ShapeFactory {
 	public Shape getShape(String shape) {

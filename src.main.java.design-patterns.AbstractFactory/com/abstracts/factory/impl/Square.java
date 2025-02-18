@@ -1,4 +1,4 @@
-package com.impl;
+package com.abstracts.factory.impl;
 
 import com.abstracts.factory.interfaces.Shape;
 

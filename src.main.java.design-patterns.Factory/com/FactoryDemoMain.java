@@ -1,7 +1,7 @@
 package com;
 
+import com.abstracts.factory.interfaces.Shape;
 import com.factory.ShapeFactory;
-import com.interfaces.Shape;
 
 public class FactoryDemoMain {
 
